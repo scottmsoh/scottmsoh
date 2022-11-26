@@ -4,3 +4,18 @@
 - 🌱 I love learning AI/ML algorithmms, data platform, consulting methodologies, statistical & mathmatical methods, and so on...  
 - 📫 How to reach me: oms870728@gmail.com or https://www.linkedin.com/in/scottmsoh/
 - ⚡ Fun fact: ...
+
+
+
+
+
+<br />
+<h2> My tech stack ⚡ </h2>
+
+![Python](https://img.shields.io/badge/-Python-F05032?style=for-the-badge&logo=Python&logoColor=ffffff)
+![SAS(JMP)](https://img.shields.io/badge/-SAS(JMP)-007ACC?style=for-the-badge&logo=SAS(JMP))
+![SQL](https://img.shields.io/badge/-SQL-43853d?style=for-the-badge&logo=SQL&logoColor=violet)
+![Spotfire](https://img.shields.io/badge/-Spotfire-46a2f1?style=for-the-badge&logo=SQL&logoColor=violet)
+![Java](https://img.shields.io/badge/-Java-222222?style=for-the-badge&logo=SQL&logoColor=violet)
+![OracleCloud](https://img.shields.io/badge/-OracleCloud-F05032?style=for-the-badge&logo=SQL&logoColor=white)
+![Oracle AI/ML Solution (OML,OAC,Data Science, AI Service)](https://img.shields.io/badge/-OracleAI/MLSolution-007ACC?style=for-the-badge&logo=SQL&logoColor=white)
