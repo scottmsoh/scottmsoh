@@ -1,8 +1,9 @@
-### Hi there, This is Minseok 👋
+### Hi there, This is Minseok Oh 👋
 
-- 🔭 I’m currently working as Oracle AI/ML & data platform Consultant
+- 🔭 I’m currently studying MS in Information Systems (Deep learning & NLP) at SCU
+- 🔭 I'm former Oracle AI/ML & data platform Consultant
 - 🌱 I love learning AI/ML algorithmms, data platform, consulting methodologies, statistical & mathmatical methods, and so on...  
-- 📫 How to reach me: oms870728@gmail.com or https://www.linkedin.com/in/scottmsoh/
+- 📫 How to reach me: oms870728@gmail.com, moh2@scu.edu or https://www.linkedin.com/in/scottmsoh/
 - ⚡ Fun fact: My interest in data science is to improve the value of IT, as well as to help business owners effectively communicate with practitioners. 
 I will continue to improve my career and research areas in various subjects and combine them to provide insightful implications.
 
