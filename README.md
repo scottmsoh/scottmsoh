@@ -1,6 +1,6 @@
 ### Hi there, This is Minseok Oh 👋
 
-- 🔭 I’m currently studying MS in Information Systems (Deep learning & NLP) at SCU
+- 🔭 I’m currently studying MS in Information Systems (LLMs & NLP) at SCU
 - 🔭 I'm former Oracle AI/ML & data platform Consultant
 - 🌱 I love learning AI/ML algorithmms, data platform, consulting methodologies, statistical & mathmatical methods, and so on...  
 - 📫 How to reach me: oms870728@gmail.com, moh2@scu.edu or https://www.linkedin.com/in/scottmsoh/
